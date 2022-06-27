@@ -38,4 +38,4 @@ var _waEmbed=(i,o)=>{var e,t,d=()=>{var e,t,d=document.createElement("div");d.se
             <p style="color: ${"dark"==o.btnColorScheme?o.darkHeaderColorScheme.title:"white"}; margin-left: ${""==o.ctaText?"0px !important":""}">${o.ctaText||""}</p>
           </div>
         </div>
-      </div>`,e);e=function(){d()},(t=document.createElement("link")).setAttribute("rel","stylesheet"),t.setAttribute("type","text/css"),t.onload=e,t.setAttribute("href","https://drive.google.com/file/d/1CVNZvOy6qkmFJKmH_oRLGzakwftYyYgr/view?usp=sharing"),document.head.appendChild(t)};
+      </div>`,e);e=function(){d()},(t=document.createElement("link")).setAttribute("rel","stylesheet"),t.setAttribute("type","text/css"),t.onload=e,t.setAttribute("href","https://github.com/Danie1G/WhatsApp/blob/main/embed.css"),document.head.appendChild(t)};
